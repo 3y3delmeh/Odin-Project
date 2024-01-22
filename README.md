@@ -1,2 +1,2 @@
-# Odin-Project
- Practice
+# The-Odin-Project
+ practice
